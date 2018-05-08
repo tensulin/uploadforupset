@@ -1,5 +1,5 @@
 {
-	"file": "https://github.com/tensulin/uploadforupset/blob/master/output.csv",
+	"file": "https://raw.githubusercontent.com/tensulin/uploadforupset/master/output.csv",
 	"name": "Genes",	"header": 0,
 	"separator": ";",
 	"skip": 0,
