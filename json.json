@@ -1,5 +1,5 @@
 {
-	"file": "https://raw.githubusercontent.com/tensulin/uploadforupset/master/output.csv",
+	"file": "/home/tlin/Uni/6.Semester/Bachelorarbeit/nebenaufgaben/output.csv",
 	"name": "Genes",	"header": 0,
 	"separator": ";",
 	"skip": 0,

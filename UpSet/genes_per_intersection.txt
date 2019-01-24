@@ -1,0 +1,80 @@
+Pseudomonas_brassicacearum_subsp_brassicacearum_NFM421
+PSEBR_gm19,conserved hypothetical protein
+PSEBR_a1989,nuclease
+PSEBR_a1995,putative DNA repair protein
+PSEBR_cmegm45,Conserved hypothetical protein; putative exported protein
+PSEBR_m645,hypothetical protein
+PSEBR_cmegm46,conserved hypothetical protein
+PSEBR_a2004,Conserved hypothetical protein
+PSEBR_a2006,conserved hypothetical protein
+PSEBR_cmegm50,putative transcription factor, Xre family
+PSEBR_m1449,Hypothetical protein
+PSEBR_m1572,Hypothetical protein
+PSEBR_m1664,Hypothetical protein
+PSEBR_m1667,Hypothetical protein
+PSEBR_m1709,Hypothetical protein
+
+Pseudomonas_brassicacearum_51MFCVI2.1
+PSBVI21_RS1000000130725,hypothetical protein
+PSBVI21_RS01000000129935,hypothetical protein
+
+Pseudomonas_brassicacearum_PP1_210F
+P908_RS30980,hypothetical protein
+P908_RS27260,hypothetical protein
+P908_RS25020,hypothetical protein
+P908_RS22720,hypothetical protein
+P908_RS30480,hypothetical protein
+
+Pseudomonas_brassicacearum_strain_37D10
+BK658_02515,site-specific integrase
+BK658_07830,hypothetical protein
+
+Pseudomonas_brassicacearum_strain_38D4
+BK664_11345,hypothetical protein
+
+Pseudomonas_brassicacearum_strain_93F8
+BK655_10895,hypothetical protein
+BK655_12445,hypothetical protein
+
+Pseudomonas_brassicacearum_BS3663
+SAMN04490180_5529,hypothetical protein
+SAMN04490180_5643,hypothetical protein
+SAMN04490180_5853,hypothetical protein
+SAMN04490180_6145,hypothetical protein
+SAMN04490180_6208,hypothetical protein
+SAMN04490180_1049,hypothetical protein
+SAMN04490180_1055,hypothetical protein
+SAMN04490180_0760,HNH endonuclease
+SAMN04490180_2147,hypothetical protein
+SAMN04490180_2450,hypothetical protein
+SAMN04490180_2664,hypothetical protein
+
+Pseudomonas_brassicacearum_strain_LBUM300
+AK973_4201,hypothetical protein
+AK973_1171,hypothetical protein
+AK973_3516,hypothetical protein
+
+Pseudomonas_brassicacearum_strain_LZ-4
+LZ4_RS18900,hypothetical protein
+LZ4_RS25175,hypothetical protein
+LZ4_RS28175,hypothetical protein
+
+Pseudomonas_brassicacearum_strain_PA1G7
+AW28_RS08285,hypothetical protein
+AW28_RS08270,hypothetical protein
+
+Pseudomonas_brassicacearum_strain_TM1A3
+AD658_RS29415,hypothetical protein
+AD658_RS04620,hypothetical protein
+AD658_RS29570,hypothetical protein
+AD658_RS29785,hypothetical protein
+AD658_RS13325,TetR family transcriptional regulator
+AD658_RS13355,DUF2790 domain-containing protein
+AD658_RS30250,hypothetical protein
+AD658_RS30260,hypothetical protein,IDENTICAL PARALOGS:,AD658_RS30265,hypothetical protein,IDENTICAL PARALOGS:,AD658_RS30270,hypothetical protein
+AD658_RS30245,hypothetical protein
+AD658_RS30275,hypothetical protein
+
+Pseudomonas_brassicacearum_strain_Wood3
+BK652_13905,hypothetical protein
+BK652_13280,hypothetical protein
